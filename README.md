@@ -13,8 +13,8 @@ To write a python program for creating Chat using TCP Sockets Links.
 
 ### CLIENT :
 ```
-NAME : ALIYA SHEEMA
-REG. NO.: 212223230011
+NAME : ROGITH GANESH.R
+REG. NO.: 212223100046
 
 import socket 
 s=socket.socket() 
@@ -26,8 +26,8 @@ while True:
 ```
 ### SERVER :
 ```
-NAME : ALIYA SHEEMA
-REG. NO.: 212223230011
+NAME : ROGITH GANESH.R
+REG. NO.: 212223100046
 
 import socket 
 s=socket.socket() 
